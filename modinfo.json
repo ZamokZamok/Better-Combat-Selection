@@ -13,6 +13,7 @@
     "identifier": "com.pa.nemogielen.client.BetterCombatSelection",
     "signature": " ",
     "version": "1.0",
-    "icon": "https://i.imgur.com/NtNAyzU.jpg"
+    "icon": "https://i.imgur.com/NtNAyzU.jpg",
+    "titansOnly": true
 
 }
