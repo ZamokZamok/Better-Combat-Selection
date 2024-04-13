@@ -6,13 +6,13 @@
         "titans"
     ],
     "context": "client",
-    "date": "2024-01-24",
+    "date": "2024-04-13",
     "description": "This mod improves the combat unit selection shortcuts for 10 units, notably adding pelicans, scouts and removing combat fabs from their combat unit selection",
     "display_name": "Better Combat Selection",
     "forum": "https://forums.planetaryannihilation.com/threads/client-better-combat-selection.73603/",
     "identifier": "com.pa.nemogielen.client.BetterCombatSelection",
     "signature": " ",
-    "version": "1.1",
+    "version": "1.2",
     "icon": "https://i.imgur.com/NtNAyzU.jpg",
     "titansOnly": true
 
